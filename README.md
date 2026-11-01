@@ -1,4 +1,3 @@
-#Summary:
 This R script is designed to replicate the work of Goyal and Welch(2008),
 examining the performance of variables that have been suggested by the 
 academic literature to be good predictors of the equity premium".
